@@ -13,7 +13,7 @@
   <a href="Link linkedin:www.linkedin.com/in/joyce-avila" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/joyceavila/count.svg" /></p>
+
 
 
 ![Snake animation](https://github.com/Avilajoyce2828/Avilajoyce2828/blob/output/github-contribution-grid-snake.svg)
