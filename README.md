@@ -16,4 +16,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/joyceavila/count.svg" /></p>
 
 
-![Snake animation](https://github.com/Avilajoyce2828/joyceavila/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Avilajoyce2828/Avilajoyce2828/blob/output/github-contribution-grid-snake.svg)
