@@ -1,4 +1,4 @@
-### Olá! Eu sou a Joyce Avila 👋
+### Olá! Eu sou  Joyce Avila 👋
 
 - 🔭 Hoje trabalho como Analista de qualidade de Software
 - 📖 Estudando java
